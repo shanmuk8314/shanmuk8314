@@ -13,7 +13,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shanmuk8314&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"First, solve the problem. Then, write the code."
+
+— John Johnson
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shanmuk8314&limit=5&theme=dark&combine_all_yearly_contributions=true)
